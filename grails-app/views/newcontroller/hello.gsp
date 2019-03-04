@@ -15,7 +15,7 @@
 <body>
     <h1>${message}</h1>
     <input id ="element1",placeholder="Username"><br>
-    <input id ="element2",type="password",placeholder="password"><br>
-    <button id ="element3", onclick="">clickme</button>
+<input id ="element2",type="password",placeholder="password"><br>
+<button id ="element3", onclick="print()">clickme</button>
 </body>
 </html>
